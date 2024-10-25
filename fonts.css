@@ -1,0 +1,6 @@
+@font-face {
+   font-family: "Didot";
+   src: url("fonts/Didot Bold.woff") format("woff"), url("fonts/Didot Bold.eot") format("embedded-opentype"), url("fonts/Didot Bold.ttf") format("truetype");
+   font-weight: bold;
+   font-style: normal;
+}

@@ -1,0 +1,24 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_EA9DBDB1_DC9A_462A_41C0_4B90DC1DC5AE.label = Näkötorni 360
+
+## Popup
+
+### Body
+htmlText_ED562582_DC8E_46EE_41C9_F728244E1329.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Didot';">Kirkkovuoren näkötorni Karstulassa</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Didot';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Didot';">Torni on hirsirakenteinen, yli 20 metriä korkea rakennelma, josta avautuvat näkymät Pääjärven yli Karstulan keskustaan ja laajemminkin ympäristökuntiin.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Didot';"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Didot';">Torni sijaitsee kirkkovuorella, jonka huippu on 211 mpy.</SPAN></SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Tooltip
+IconButton_9162DC57_BC8F_C616_41C5_0DD9D2CCEADD.toolTip = Fullscreen
+IconButton_9162DC57_BC8F_C616_41C5_0DD9D2CCEADD_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Näkötorni 360 kuva
